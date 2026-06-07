@@ -90,12 +90,10 @@ decision-makers, not analysts.
   regional service or product fit issues
 
 **What It's Costing**
-- High-balance customers are disproportionately represented among 
-  those leaving, amplifying the revenue impact of each exit
-- Retaining the **top 10% of high-value accounts** could recover a 
-  large share of annual deposit leakage
-- Even moderate churn among engaged customers compounds into 
-  significant revenue loss over a 12-month window
+- 2,000 customers exited, representing a 20.37% churn rate — 1 in 5 customers lost
+- Churned accounts carried a total balance of KES 120.75M in deposit exposure
+- High-balance customers were disproportionately represented among those leaving, amplifying the revenue impact beyond headcount numbers.
+- Retaining the top 10% of high-value accounts could recover a large share of the KES 120.75M leakage
 
 ---
 
